@@ -1,0 +1,218 @@
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\UnityEditor.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\UnityEngine.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\Mono.Cecil.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\Unity.DataContract.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\obj\Debug\Assembly-CSharp.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\obj\Debug\Assembly-CSharp.pdb
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\UnityEngine.xml
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\UnityEditor.xml
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Aulas IST\IA para jogos\Práticas\Aula1\IAJ Aula1 Movimento\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\UnityEditor.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\UnityEngine.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\Mono.Cecil.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\Unity.DataContract.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\UnityEngine.xml
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\UnityEditor.xml
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\obj\Debug\Assembly-CSharp.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\obj\Debug\Assembly-CSharp.pdb
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Boo.Lang.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\mscorlib.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\System.Core.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\System.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\System.Xml.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Unity.Locator.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEditor.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityScript.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityScript.Lang.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Unity.Cecil.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Unity.DataContract.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEditor.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\obj\Debug\Assembly-CSharp.dll
+D:\Dropbox\Aulas\IAJ-2018-2019\Laboratórios\Proj1\Proj1 - Solution\obj\Debug\Assembly-CSharp.pdb

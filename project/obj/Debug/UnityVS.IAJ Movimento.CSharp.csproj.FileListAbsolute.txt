@@ -1,0 +1,17 @@
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\obj\Debug\UnityVS.IAJ Movimento.CSharp.csprojResolveAssemblyReference.cache
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\obj\Debug\Assembly-CSharp.dll
+D:\Aulas IST\IA para jogos\Práticas\IAJ Movimento\obj\Debug\Assembly-CSharp.pdb
