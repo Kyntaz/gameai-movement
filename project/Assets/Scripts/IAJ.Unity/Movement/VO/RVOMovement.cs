@@ -109,10 +109,10 @@ namespace Assets.Scripts.IAJ.Unity.Movement.VO
 				foreach (StaticData b in this.Obstacles) {
 					if (b == this.Character) continue;
 
-					Vector3 deltaP = b.Position - this.Character.Position;
+					//sVector3 deltaP = b.Position - this.Character.Position;
 					//if (deltaP.magnitude > IgnoreDistance) continue;
 
-					Vector3 rayVector = sample - this.Character.velocity;
+					Vector3 rayVector = sample;
 					float tc = Util.MathHelper.TimeToCollisionBetweenRayAndCircle(this.Character.Position, rayVector, b.Position, this.ObstacleSize * 2);
 					float timePenalty;
 
